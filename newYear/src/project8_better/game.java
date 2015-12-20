@@ -13,7 +13,7 @@ public class game { //главный класс, без которого игра не запустится
         if((slogn>=1)||(slogn<=7))		//анализируем введённое значение
         {  okno window = new okno(slogn); } //создаём окно, если уровень сложности от 1 до 7
 		
-        System.out.println("как дела?");
+        //System.out.println("как дела?");
         
 	}
 
